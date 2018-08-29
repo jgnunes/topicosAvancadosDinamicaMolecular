@@ -1,5 +1,5 @@
 # Tópicos Avançados em Dinâmica Molecular
-Disciplina realizada pelo mestrado em 2018.2. 
+Disciplina realizada pelo mestrado (período: 2018.2). 
 
 ### Professor
 Pedro Pascutti
